@@ -3,7 +3,6 @@
 This project is a ChatGPT clone built using Python and Django. It incorporates an authentication system that allows users to register and log in. Once logged in, users can interact with the ChatGPT model to ask it various questions or engage in conversations. The application also features a database integration, allowing users to access their entire message history.
 
 ![Screenshot](screen.png)
-I also deployed this project with Vercel! --> 
 
 ## Features
 1. User Authentication: Users can register an account and log in securely. The authentication system ensures that each user's data is private and protected.
